@@ -1,0 +1,29 @@
+{
+  "name": "and-search",
+  "version": "1.0.0",
+  "description": "does an and-search over a list of strings, given a list of keywords.",
+  "main": "and-search.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elsehow/and-search.git"
+  },
+  "keywords": [
+    "search",
+    "and-search"
+  ],
+  "author": "elsehow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsehow/and-search/issues"
+  },
+  "homepage": "https://github.com/elsehow/and-search#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "tape": "^4.0.3"
+  }
+}
